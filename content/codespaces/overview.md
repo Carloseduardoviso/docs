@@ -36,7 +36,7 @@ If you don't do any custom configuration, {% data variables.product.prodname_cod
 
 You can also personalize aspects of your codespace environment by using a public [dotfiles](https://dotfiles.github.io/tutorials/) repository and [Settings Sync](https://code.visualstudio.com/docs/editor/settings-sync). Personalization can include shell preferences, additional tools, editor settings, and VS Code extensions. For more information, see "[Customizing your codespace](/codespaces/customizing-your-codespace)".
 
-## About billing for {% data variables.product.prodname_codespaces %}
+## About billing for {% data variables.product.prodname_codespaces %}.
 
 For information on pricing, storage, and usage for {% data variables.product.prodname_codespaces %}, see "[Managing billing for {% data variables.product.prodname_codespaces %}](/billing/managing-billing-for-github-codespaces/about-billing-for-codespaces)."
 
